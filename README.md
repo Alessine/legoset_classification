@@ -4,4 +4,4 @@ I built a convolutional neural network on the basis of ResNet50 with the goal of
 
 **Note**: This repository was inspired by an in-class exercise during my Data Science Bootcamp at [Propulsion Academy](https://propulsion.academy/).
 
-![]7_legosets.jpg
+<img src="7_legosets.jpg" alt="alt text" width="150" height="150">  <img src="392_legosets.jpg" alt="alt text" width="150" height="150">  <img src="889_legosets.jpg" alt="alt text" width="150" height="150">  <img src="914_legosets.jpg" alt="alt text" width="150" height="150">  <img src="711_legosets.jpg" alt="alt text" width="150" height="150">  <img src="280_legosets.jpg" alt="alt text" width="150" height="150">

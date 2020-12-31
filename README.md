@@ -1,4 +1,4 @@
-# legoset_classification
+# Legoset classification
 
 I built a convolutional neural network on the basis of ResNet50 with the goal of classifying used lego sets from three different product lines: Duplo, Star Wars and Technic. I am using the data generated with my Ricardo webscraping code (see my other repository). The network currently achieves a classification accuracy of 82%. It is work in progress.
 
